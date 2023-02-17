@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "aqua.png",
+            "name": "Aqua",
+            "description": "Aqua is a luxurious lotion that is perfect for those who want to feel refreshed and rejuvenated. The soothing blue color of Aqua is reminiscent of the cool and refreshing waters of the ocean, and its light and non-greasy formula absorbs quickly into the skin, leaving it feeling smooth and soft.",
+            "price": 2.99
+        },
+        {
+            "id": 2,
+            "image": "floss.png",
+            "name": "Floss",
+            "description": "Floss is a luxurious lotion that is perfect for those who want to indulge in a little self-care. The sweet pink color of Floss is reminiscent of candy floss and its light and non-greasy formula absorbs quickly into the skin, leaving it feeling silky and soft.",
+            "price": 9.99
+        },
+        {
+            "id": 3,
+            "image": "gold.png",
+            "name": "Gold",
+            "description": "Gold is a premium lotion that is perfect for those who want to indulge in a little luxury. The golden color of Gold is reminiscent of the precious metal itself and its rich and nourishing formula absorbs quickly into the skin, leaving it feeling soft, smooth, and radiant.",
+            "price": 7.99
+        },
+        {
+            "id": 4,
+            "image": "plum.png",
+            "name": "Plum",
+            "description": "Plum is a premium lotion that is perfect for those who want to pamper their skin. The rich purple color of Plum is reminiscent of the delicious fruit itself and its nourishing formula absorbs quickly into the skin, leaving it feeling soft, supple, and revitalized.",
+            "price": 4.99
+        },
+        {
+            "id": 5,
+            "image": "rust.png",
+            "name": "Rust",
+            "description": "Rust is a premium lotion that is perfect for those who want to indulge in a little self-care. The deep brown color of Rust is reminiscent of earthy tones and its nourishing formula absorbs quickly into the skin, leaving it feeling restored, nourished, and deeply hydrated.",
+            "price": 12.99
+        },
+        {
+            "id": 6,
+            "image": "sage.png",
+            "name": "Sage",
+            "description": "Sage is a premium lotion that is perfect for those who want to indulge in a little self-care. The refreshing green color of Sage is reminiscent of the herb itself and its lightweight formula absorbs quickly into the skin, leaving it feeling invigorated, hydrated, and revitalized.",
+            "price": 11.99
+        },
+        {
+            "id": 7,
+            "image": "whisper.png",
+            "name": "Whisper",
+            "description": "Whisper is a premium lotion that is perfect for those who want to indulge in a little self-care. The delicate white color of Whisper is reminiscent of soft whispers and its gentle formula absorbs quickly into the skin, leaving it feeling nourished, soothed, and moisturized.",
+            "price": 6.99
+        },
+        {
+            "id": 8,
+            "image": "wine.png",
+            "name": "Wine",
+            "description": "Wine is a premium lotion that is perfect for those who want to indulge in a little self-care. The rich red color of Wine is reminiscent of the deep and indulgent tones of a fine wine, and its luxurious formula absorbs quickly into the skin, leaving it feeling deeply nourished, moisturized, and pampered.",
+            "price": 17.99
+        }
+    ]
+}
